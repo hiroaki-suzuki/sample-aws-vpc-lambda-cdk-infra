@@ -1,8 +1,8 @@
-# Welcome to your CDK TypeScript project
+# インフラ | AWS VPC Lambda サンプル for CDK
 
-This is a blank project for CDK development with TypeScript.
+## 概要
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+AWS CDK を利用して、VPC Lambda でサンプルアプリを構築するサンプルのAWS インフラ構築です。This is a blank project for CDK development with TypeScript.
 
 ## Useful commands
 
